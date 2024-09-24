@@ -53,7 +53,7 @@ class _DrawingScreenState extends State<DrawingScreen> {
           note : the response will be in maths related to the image also if its not.
           '''),
       model: 'gemini-1.5-flash-latest',
-      apiKey: "AIzaSyCFZ4E7GF25afH2aUCyH7wJwH1gWlog5PU",
+      apiKey: "AIzaSyAjKPt_wCY3y68bQb8vYxdahvKPE0Iuj1M",
     );
   }
 
